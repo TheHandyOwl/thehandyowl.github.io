@@ -2,7 +2,7 @@
 
 This backend is for testing purposes
 
-## [api]((https://thehandyowl.github.io/api/)
+## [api](https://thehandyowl.github.io/api/)
 
 ### [api/jsonplaceholder](https://thehandyowl.github.io/api/jsonplaceholder/)
 
