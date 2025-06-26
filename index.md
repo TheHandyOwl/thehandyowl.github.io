@@ -2,9 +2,7 @@
 
 This backend is for testing purposes
 
-## [api](https://thehandyowl.github.io/api/)
-
-### Endpoints available at /api/jsonplaceholder
+## Endpoints available at /api/jsonplaceholder
 
 - [/albums](https://thehandyowl.github.io/api/jsonplaceholder/albums.json)
 - [/comments](https://thehandyowl.github.io/api/jsonplaceholder/comments.json)
